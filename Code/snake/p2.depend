@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1621679661 source:c:\lotus\p2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+
+1680021660 source:c:\users\aorus\downloads\snake\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+
